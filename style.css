@@ -1,39 +1,4 @@
-<style>
-	*{
-  box-sizing: border-box;
-}
-
-h1{
-  text-align: center;
-}
-
-p {
-  background-color: #bfbfbf;
-  border: 2px solid black;
-  height: 150px;
-  margin-right: 10px;
-  padding: 40px 10px 5px 10px;
-  overflow: hidden;
-}
-
-
-#container {
-  position: relative;
-  
-}
-
-#p1 {
-  background-color: #D59898;
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-weight: bold;
-  height: 35px;
-  width: 120px;
-  padding: 10px;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
+https://github.com/selenearzola/coursera-course-module2-assignment/blob/7000e203d6dc77ba7d356c79b809e3f92c9898b8/css/style.css
 }
 #p2 {
   background-color:#C14543 ;
