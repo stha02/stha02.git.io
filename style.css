@@ -1,26 +1,28 @@
-* {
+{
   box-sizing: border-box;
 }
 
 body {
-	font-family: 'Lato', sans-serif;
-	background-color: white;
+background-color: white;
 }
 
 h1 {
-  font-size: 175%;
-  text-align: center;
+         font-size: 175%;
+         text-align: center;
+	 margin-bottom: 30px;
+	
 }
 
-
-#box {
+p{
+  padding: 15px 5px 0px 5px;
+  font-family: Georgia sans-serif;	
   border: 2px solid black;
   background-color: #99c1d6;
-  margin-right: 15px;
-  margin-left: 15px;
-  margin-bottom: 30px;
+  position: relative;
 
 }
+
+.section{
 
 p#chicken {
 	background-color: #ff9999;
